@@ -1,4 +1,4 @@
-# Hi
+# Hi 👋
 
 I'm a Software Engineer, experienced in full stack developement.
 
