@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm a Software Engineer, experienced in full stack developement.
+I'm a Computer Engineering Student, experienced in software developement.
 
 * Looking for Software Internships
 * [My Portfolio](https://www.saadxi.com)
